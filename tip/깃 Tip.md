@@ -16,3 +16,4 @@
 ## Plugins 
 - .ignore : git ignore 파일 등을 쉽게 볼 수 있음
 - bash support
+    
